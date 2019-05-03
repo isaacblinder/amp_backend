@@ -1,0 +1,17 @@
+{
+  "name": "amp_backend",
+  "version": "1.0.0",
+  "description": "backend for amp email",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isaac Blinder",
+  "license": "ISC",
+  "dependencies": {
+    "amp-toolbox-cors": "^0.2.5",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1"
+  }
+}
